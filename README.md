@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reyfelix
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning Front end engineering
+- 👀 I’m working in tech company
+- 🌱 I’m currently interested in front end engineering
 
 <!---
 reyfelix/reyfelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
